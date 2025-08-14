@@ -32,4 +32,5 @@ To design and implement a system that:
 | Language        | Python 3.x                |
 
  Output:
- 
+ <img width="608" height="632" alt="Image" src="https://github.com/user-attachments/assets/de2607d3-3bed-4631-9ff4-d51ccbf6e56f" />
+
